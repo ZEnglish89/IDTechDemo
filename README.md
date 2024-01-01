@@ -1,0 +1,1 @@
+Simple python demonstration of branch code which I will use for my instructing demo prior to my job interview with IDTech. I also used this as an opportunity to get comfortable with using git via VSCode rather than doing all of my coding without it and uploading the files once I'm done.
